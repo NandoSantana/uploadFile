@@ -3,7 +3,7 @@
 ## Rodando o projeto
 <p>
 Foi feito a partir do sail com docker, depois
-de subir os containers esocial_laravel_test_1
+de subir os containers e esocial_laravel_test_1
 </p>
 <br/>
 <br/>
